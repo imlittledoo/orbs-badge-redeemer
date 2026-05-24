@@ -118,4 +118,5 @@ Use responsibly. The developer is not responsible for misuse or violations of Di
 
 ## 🧑‍💻 Author
 
-Made by **ImLittledoo**
+Made by **ImLittledoo**.
+If you like this project, consider giving it a ⭐
