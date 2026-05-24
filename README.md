@@ -22,9 +22,7 @@ A multi-threaded command-line tool designed to **automate Discord virtual curren
 The tool reads tokens from:
 
 ```
-
 input/tokens.txt
-
 ```
 
 Each token is processed through Discord’s API flow:
@@ -33,9 +31,7 @@ Each token is processed through Discord’s API flow:
 2. Fetches `/experiments` fingerprint
 3. Sends redemption request to:
 ```
-
 /virtual-currency/skus/1342211853484429445/redeem
-
 ````
 4. Categorizes response based on status code
 
